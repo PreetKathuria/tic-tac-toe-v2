@@ -12,7 +12,7 @@ Tic Tac Toe Game -:
 
 *How to Run
 1. Clone the repository
-2. Open index.html in your browser
+2. Open tttv2.html in your browser
 
 ![Screenshot](Screenshot%202026-04-01%20142933.png)
 ![Screenshot](Screenshot%202026-04-01%20142958.png)
